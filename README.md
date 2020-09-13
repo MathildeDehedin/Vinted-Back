@@ -12,6 +12,8 @@
 
 ###### La route "/user/sign_up" permet de créer un nouvel utilisateur dans la BDD. On vérifie que l'email n'est pas déjà présent en BDD ainsi que le username et que tous les paramètres (email, username, firstName, lastName, postalCode, city, address & password via un hash et un salt) sont envoyés afin de créer un compte.
 
+<p align="center"><img src="./login.png" width="200" alt="SignUp Screen"></p>
+
 ### Se connecter
 
 ##### **/user/log_in**
