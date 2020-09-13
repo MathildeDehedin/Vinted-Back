@@ -1,8 +1,8 @@
 # Réplique Vinted
 
-## Made with _Express_, _ExpressFormidable_, _Cloudinary_, _Crypto.js_, _Mongoose_, _Stripe_ & _uid2_ (Back)
+## _Express_, _ExpressFormidable_, _Cloudinary_, _Crypto.js_, _Mongoose_, _Stripe_ & _uid2_ (Back)
 
-## Made with _React Native_ (Front)
+## _React Native_ (Front)
 
 ### Route user.js
 
