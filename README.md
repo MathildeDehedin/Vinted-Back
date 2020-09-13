@@ -108,4 +108,4 @@
 
 ###### Ce projet, rebaptisé SyMa, a été réalisé en collaboration avec [Sylvie](https://github.com/SophiaLys) lors du projet de fin de formation au [Reacteur](https://www.lereacteur.io/)
 
-###### https://github.com/Projet-hotelApi/Syma-Native
+###### [SyMa côté Front](https://github.com/Projet-hotelApi/Syma-Native)
