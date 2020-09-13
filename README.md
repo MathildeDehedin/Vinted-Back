@@ -4,6 +4,8 @@
 
 ## _React Native_ (Front)
 
+#### [SyMa côté Front](https://github.com/Projet-hotelApi/Syma-Native)
+
 ### Route user.js
 
 ### Créer un compte
@@ -107,5 +109,3 @@
 ###### La route "/post-review/:id" permet de poster un commentaire à un utilisateur et de les relier ensemble en BDD.
 
 ###### Ce projet, rebaptisé SyMa, a été réalisé en collaboration avec [Sylvie](https://github.com/SophiaLys) lors du projet de fin de formation au [Reacteur](https://www.lereacteur.io/)
-
-###### [SyMa côté Front](https://github.com/Projet-hotelApi/Syma-Native)
