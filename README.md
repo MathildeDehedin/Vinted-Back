@@ -12,8 +12,6 @@
 
 ###### La route "/user/sign_up" permet de créer un nouvel utilisateur dans la BDD. On vérifie que l'email n'est pas déjà présent en BDD ainsi que le username et que tous les paramètres (email, username, firstName, lastName, postalCode, city, address & password via un hash et un salt) sont envoyés afin de créer un compte.
 
-<p align="center"><img src="./login.png" width="200" alt="SignUp Screen"></p>
-
 ### Se connecter
 
 ##### **/user/log_in**
@@ -108,6 +106,6 @@
 
 ###### La route "/post-review/:id" permet de poster un commentaire à un utilisateur et de les relier ensemble en BDD.
 
-###### Réalisé en collaboration avec https://github.com/SophiaLys lors du projet de fin de formation rebaptisé SyMa.
+###### Ce projet, rebaptisé SyMa, a été réalisé en collaboration avec [Sylvie](https://github.com/SophiaLys) lors du projet de fin de formation au [Reacteur](https://www.lereacteur.io/)
 
 ###### https://github.com/Projet-hotelApi/Syma-Native
