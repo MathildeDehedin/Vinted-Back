@@ -48,13 +48,13 @@
 
 ##### **/user/update-account/:id** - Update
 
-###### La route "/user/update-account/:id" permet de modifier et / ou ajouter des informations sur l'utilisteur (email, username, postalCode, city, address, description ainsi que sa photo)
+###### La route "/user/update-account/:id" permet de modifier et / ou ajouter des informations sur l'utilisateur (email, username, postalCode, city, address, description ainsi que sa photo)
 
 ### Supprimer un utilisateur
 
 ##### **/user/delete** - Delete
 
-###### La route "/user/delete" permet à l'utilistaeur de supprimer son compte tout en supprimant les articles qu'il aurait pu posté.
+###### La route "/user/delete" permet à l'utilisateur de supprimer son compte tout en supprimant les articles postés.
 
 ### Route ad.js
 
@@ -62,7 +62,7 @@
 
 ##### **/ad/publish** - Create
 
-###### La route "/ad/publish" permet de créer une nouvelle annonce en BDD qui sera liée à un utilisateur grâce à une référence. On vérifie que le titre, le prix, la description, une photo, la condition de l'article, la marque et la taille sont envoyés lors de la requête.
+###### La route "/ad/publish" permet de créer une nouvelle annonce en BDD qui sera reliée à un utilisateur grâce à une référence. On vérifie que le titre, le prix, la description, une photo, la condition de l'article, la marque et la taille sont envoyés lors de la requête.
 
 ### Lire les annonces
 
@@ -74,7 +74,7 @@
 
 ##### **/ad/informations/:id** - Read
 
-###### La route "/ad/informations/:id" permet d'avoir les informations d'une annonce en commancant par le créateur de cette dernière et ces reviews.
+###### La route "/ad/informations/:id" permet d'avoir les informations d'une annonce (son créateur et les reviews).
 
 ### Rechercher une annonce
 
@@ -98,7 +98,7 @@
 
 ##### **/ad/delete/:id** - Delete
 
-###### La route "/ad/delete/:id" permet de supprimer une annonce via son id, l'utilistaeur doit également être enregistré pour supprimer l'annonce.
+###### La route "/ad/delete/:id" permet de supprimer une annonce via son id, l'utilisateur doit également être enregistré pour supprimer l'annonce.
 
 ### Route review.js
 
