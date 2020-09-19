@@ -563,8 +563,9 @@ Réponse attendue de la requête :
 
 La route "/ad/sort" permet d'obtenir toutes les annonces liées à notre recherche. Il est possible de les filtrer en recherchant par titre, par prix minimum et/ou maximum. <br>
 
-Exemple de requête sur Postman :
+Exemple de requête sur Postman : <br>
 "http://localhost:3000/ad/sort?title=pull" <br>
+
 Réponse attendue de la requête :
 
 ```
@@ -681,8 +682,9 @@ Réponse attendue de la requête :
 
 La route "/ad/delete/:id" permet de supprimer une annonce via son id, l'utilisateur doit également être enregistré pour supprimer l'annonce. <br>
 
-Exemple de requête sur Postman :
-"http://localhost:3000/ad/delete/5f45612927ffff2114974804"
+Exemple de requête sur Postman : <br>
+"http://localhost:3000/ad/delete/5f45612927ffff2114974804" <br>
+
 Réponse attendue de la requête :
 
 ```
