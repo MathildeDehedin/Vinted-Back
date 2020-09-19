@@ -192,7 +192,7 @@ router.get("/user/mes-commandes", isAuthenticated, async (req, res) => {
           path: "creator",
         },
       });
-      console.log(userFounded);
+      //console.log(userFounded);
       res.status(200).json(userFounded);
     } else {
       res.status(400).json({ message: "User not founded" });
@@ -209,7 +209,7 @@ router.get("/user/mes-ventes", isAuthenticated, async (req, res) => {
       const userFounded = await User.findById(req.user._id).populate({
         path: "ventes",
       });
-      console.log(userFounded);
+      //console.log(userFounded);
       res.status(200).json(userFounded);
     } else {
       res.status(400).json({ message: "User not founded" });
