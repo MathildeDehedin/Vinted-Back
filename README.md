@@ -478,7 +478,9 @@ Réponse attendue de la requête :
 
 La route "/ad/informations/:id" permet d'avoir les informations d'une annonce (son créateur et les reviews). <br>
 
-Exemple de requête avec Postman : "http://localhost:3000/ad/informations/5f66010c41f933072724d54e"
+Exemple de requête avec Postman :
+"http://localhost:3000/ad/informations/5f66010c41f933072724d54e" <br>
+
 Réponse attendue de la requête :
 
 ```
