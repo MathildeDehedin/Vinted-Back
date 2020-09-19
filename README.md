@@ -117,7 +117,8 @@ Réponse attendue de la requête :
 La route "/user/informations/:id" permet d'accèder aux informations en passant en params l'id. <br>
 
 Exemple de requête sur Postman :
-"http://localhost:3000/user/informations/5f65f9e247efd906c100d80f"
+"http://localhost:3000/user/informations/5f65f9e247efd906c100d80f" <br>
+
 Réponse attendue de la requête :
 
 ```
@@ -273,7 +274,7 @@ Réponse attendue :
 
 #### Route en post : **/user/update-account/:id**
 
-La route "/user/update-account/:id" permet de modifier et / ou ajouter des informations sur l'utilisateur (email, username, postalCode, city, address, description ainsi que sa photo) <br>
+La route "/user/update-account/:id" permet de modifier et / ou d'ajouter des informations sur l'utilisateur (email, username, postalCode, city, address, description ainsi que sa photo) <br>
 
 Exemple de requête :
 
@@ -561,7 +562,7 @@ Réponse attendue de la requête :
 La route "/ad/sort" permet d'obtenir toutes les annonces liées à notre recherche. Il est possible de les filtrer en recherchant par titre, par prix minimum et/ou maximum. <br>
 
 Exemple de requête sur Postman :
-"http://localhost:3000/ad/sort?title=pull"
+"http://localhost:3000/ad/sort?title=pull" <br>
 Réponse attendue de la requête :
 
 ```
