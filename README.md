@@ -1,8 +1,8 @@
 # SyMa
 
-Replica Vinted
-Full-Stack Project
-[SyMa côté Front](https://github.com/Projet-hotelApi/Syma-Native)
+Replica Vinted <br>
+Full-Stack Project <br>
+[SyMa côté Front](https://github.com/Projet-hotelApi/Syma-Native) <br>
 Projet réalisé en collaboration avec [Sylvie](https://github.com/SophiaLys) lors du projet de fin de formation au [Reacteur](https://www.lereacteur.io/)
 
 ### _Languages_ & _Packages_
